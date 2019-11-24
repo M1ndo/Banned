@@ -47,7 +47,7 @@ print("        "+cyan+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+cyan+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+cyan+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"              "+Green+"["+Reset+"Banned"+Reset+"]"+Blue+"         ")
-print("     "+Red+"         "+Red+"["+Red+"Created By ybenel"+Grey+"]"+Blue+"    "+Reset+"\n")
+print("     "+Red+"         "+Red+"["+Red+"    Made By ybenel"+Grey+"]"+Blue+"    "+Reset+"\n")
 
 parse = optparse.OptionParser("""
   Usage: python banned.py [OPTION..]
@@ -116,3 +116,5 @@ def Main():
 
 if __name__=="__main__":
 	Main()
+#'='!!
+
