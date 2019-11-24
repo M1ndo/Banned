@@ -10,6 +10,5 @@ cd Banned
 pip2 install pyfiglet
 
 python pyfiglet 
-
 # Author  :
 ## ybenel 
