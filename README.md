@@ -1,12 +1,20 @@
 # Banned
-Banned Is A Python Script For Making Your Text Looks Awesome With Great Fonts.
 
-# Installation And Usage:
+[Banned](https://github.com/m1ndo/Banned) Is A Python Script For Making Your Text Looks Awesome With Great Fonts.
+
+# Install And Run:
 ```
-git clone https://github.com/ybenel/Banned.git
-cd Banned
-pip2 install pyfiglet
-python pyfiglet 
+pip3 install pyfilget
+python3 main.py
 ```
-# Author  :
-## ybenel
+# Basic Usage: 
+```
+python3 main.py -t Ybenel -f graffiti
+          
+                  Show All Fonts Available
+python3 main.py -s                  
+
+                  Use All Fonts For A Specific Text
+python3 main.py -t Ybenel -a
+```
+## Author: **Ybenel
